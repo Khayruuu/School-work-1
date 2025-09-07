@@ -1,0 +1,1 @@
+print("Halo, nama saya Khayru. Language kesukaan saya adalah Python, karena Python itu bahasa yang paling mudah untuk memulai jalan untuk menjadi seorang programmer")
